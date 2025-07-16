@@ -139,87 +139,86 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 <p>
 24 Go back to the ticket we were looking at prior. 
-   Sometimes clients don't choose the best information when submitting the ticket and when that happens we need to make changes to both better understand the issue and get it to the right department if necessary. 
+   Sometimes clients don't choose the best information when submitting the ticket and when that happens we need to make         changes to both better understand the issue and get it to the right department if necessary. 
+   First, next to SLA Plan click "Default SLA".
 <p>
 <img <img width="1440" alt="TTL_24" src="https://github.com/user-attachments/assets/e0857b60-5722-4921-b484-fae22b045eb4" />
 </p>
 <p>
-25 
+25 Here you would update the SLA to better meet the circumstances of the ticket like this. I change the Plan and and            provided a reason for the update. Then click update. 
 <p>
 <img <img width="1440" alt="TTL_25" src="https://github.com/user-attachments/assets/20659c1b-55bb-4b95-98d2-b7244058d877" />
 </p>
 <p>
-26
+26 Next to Help Topic click "Report a Problem".
 <p>
 <img <img width="1440" alt="TTL_26" src="https://github.com/user-attachments/assets/7a67c9b3-775b-4058-9e30-1c45d991726d" />
 </p>
 <p>
-27
+27 A more apropriate topic for this situation would be "Report a Problem/Buisness  Critical Outage". 
+   Then give a reason for the update. Then click update. 
 <p>
 <img <img width="1440" alt="TTL_27" src="https://github.com/user-attachments/assets/e0016ed3-0586-40ba-92eb-5fb30a0b956d" />
 </p>
 <p>
-28
+28 Now refresh the page. 
 <p>
 <img <img width="1440" alt="TTL_28" src="https://github.com/user-attachments/assets/5314c5d4-449a-4c66-8e32-ccbabe158789" />
 </p>
 <p>
-29
+29 Afte the page refreshes scroll down and you can see all the updates you made. 
 <p>
 <img <img width="1440" alt="TTL_29" src="https://github.com/user-attachments/assets/675939ca-67b6-47aa-bfc3-d6fd7250a0fd" />
 </p>
 <p>
-30
+30 This ticket hasn't been assigned to anyone yet so now we will assign it to the correct team. 
+   To do that you would click "Unassigned". Before that however another correction (My apologies). 
 <p>
 <img <img width="1440" alt="TTL_30" src="https://github.com/user-attachments/assets/f6498169-4018-4bfd-91f7-eaf0765fe459" />
 </p>
 <p>
-31
+31 Sign back in as yourself, click on "Agents" tab and then "Teams".
 <p>
 <img <img width="1440" alt="TTL_31" src="https://github.com/user-attachments/assets/da680dc8-33f0-497a-b6a3-6109905b9e8f" />
 </p>
 <p>
-32
+32 Click "Online Banking".
 <p>
 <img <img width="1440" alt="TTL_32" src="https://github.com/user-attachments/assets/33642892-f1c9-418c-acf3-bf7e829a12be" />
 </p>
 <p>
-33
+33 Go to the Members tab.
 <p>
 <img <img width="1440" alt="TTL_33" src="https://github.com/user-attachments/assets/cfb5291a-b303-4066-aa0d-011ec26e648f" />
 </p>
 <p>
-34
+34 Under select agent click the Sysadmin agent you created ealier. 
 <p>
 <img <img width="1440" alt="TTL_34" src="https://github.com/user-attachments/assets/95f502e0-6bcd-41af-817e-27ae637f3a18" />
 </p>
 <p>
-35
+35  Do this for the other two as well. Then click "Save Changes". 
+    (The reason behind this is to see the changes regardless whe you are signed in as.)
 <p>
 <img <img width="1440" alt="TTL_35" src="https://github.com/user-attachments/assets/a17435fb-da6b-446f-b175-4e2a535999f4" />
 </p>
 <p>
-36
+36 Now sign back in as the Help Desk Agent, go back to the ticket and click "Unassigned". 
 <p>
 <img <img width="1440" alt="TTL_36" src="https://github.com/user-attachments/assets/f32d9354-4bc9-49cf-9892-7b5fba235f64" />
 </p>
 <p>
-37
+37 Select "Online Banking" and copy the reason for the assignment in the image. Then click "Assign".
 <p>
 <img <img width="1440" alt="TTL_37" src="https://github.com/user-attachments/assets/092b0c76-6113-458d-ae35-0922c9b09d27" />
 </p>
 <p>
-38
-<p>
-<img <img width="1440" alt="TTL_38" src="https://github.com/user-attachments/assets/4d1bcb6f-353e-4547-a81e-9eba54f4baa5" />
-</p>
-<p>
-39
+39 Now that we have made the necessary changes to the ticket we are going to sign out as the Help Desk Agent and sign in as the Sysadmin to work the ticke to completion.
 <p>
 <img <img width="1440" alt="TTL_39" src="https://github.com/user-attachments/assets/ad3d695c-2ab4-479e-882b-795ef1a270ce" />
 </p>
 <p>
-40
+40 After you are sined in as the Sysadmin go to Tickets and click on the ticket assigned to Online Banking. 
 <p>
 <img <img width="1440" alt="TTL_40" src="https://github.com/user-attachments/assets/47bc0e8d-7b3b-4447-a775-99a0e43fea24" />
 </p>
