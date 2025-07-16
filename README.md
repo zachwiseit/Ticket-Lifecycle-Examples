@@ -66,59 +66,56 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img <img width="1440" alt="TTL_8" src="https://github.com/user-attachments/assets/a8546eb1-255a-47a8-9deb-75153a0c25f5" />
 </p>
 <p>
-9
+9 Now set the parent to Top level Department.
 <p>
 <img <img width="1440" alt="TTL_9" src="https://github.com/user-attachments/assets/2237b5b4-f765-4dd9-9020-61d62daacadd" />
 </p>
 <p>
-10
+10 Scroll down and Save changes. 
 <p>
 <img <img width="1440" alt="TTL_10" src="https://github.com/user-attachments/assets/cfd1482e-10b6-49ea-ac8a-0e8d381f4306" />
 </p>
 <p>
-11
+11 On another webpage go to the End user link.
 <p>
 <img <img width="1440" alt="TTL_11" src="https://github.com/user-attachments/assets/7f551a61-d95b-4c1c-bf32-df67305aaa37" />
 </p>
 <p>
-12
-<p>
-<img <img width="1440" alt="TTL_12" src="https://github.com/user-attachments/assets/4b228b9e-3574-4b75-8102-bd2ef75e0e34" />
-</p>
-<p>
-13
+13  Under "Open a New Ticket"
+    Now fill out the form as seen below with the email address and name of a cliant that you created earlier. 
 <p>
 <img <img width="1440" alt="TTL_13" src="https://github.com/user-attachments/assets/0991caf7-2d36-405f-9622-cfe61b8d0811" />
 </p>
 <p>
-14
+14 This is an example of what a Ticket could be for a bank. 
+   Afte you have filled out everything click "Create Ticket" at the bottom.
 <p>
 <img <img width="1440" alt="TTL_14" src="https://github.com/user-attachments/assets/b98dd63e-83c1-45c9-8cac-633126356cc1" />
 </p>
 <p>
-15
+15 The screen will change to this notifying you the ticket was created and sent to the support team. 
+   We will now go back as a Help Desk Agent and reveiw this ticket. 
 <p>
 <img <img width="1440" alt="TTL_15" src="https://github.com/user-attachments/assets/cf40919c-a072-46d9-b874-ba2434e156f6" />
 </p>
 <p>
-16
+16 From the other link (Admin/Analyst Login Page) Sign in as the help desk agent you created earlier. Then go to the tickets Panel. 
 <p>
 <img <img width="1440" alt="TTL_16" src="https://github.com/user-attachments/assets/3b5ea308-e2df-4155-aea4-31b86058d5fb" />
 </p>
 <p>
-17
+17 Now you can see the ticket that we created from the client. Now click on the ticket number. 
 <p>
 <img <img width="1440" alt="TTL_17" src="https://github.com/user-attachments/assets/455949c5-11c5-4018-b76a-120779f54944" />
 </p>
 <p>
-18
+18 While signed in as the help desk agent observer this tickets properties. 
+   Priority 
+   Department 
+   SLA 
+   Assigned To
 <p>
 <img <img width="1440" alt="TTL_18" src="https://github.com/user-attachments/assets/84bd9519-bb0d-44c8-8367-b00bb2704a90" />
-</p>
-<p>
-19
-<p>
-<img <img width="1440" alt="TTL_19" src="https://github.com/user-attachments/assets/10e9c755-0efd-49d8-962d-4726cfe5a0ca" />
 </p>
 <p>
 20
