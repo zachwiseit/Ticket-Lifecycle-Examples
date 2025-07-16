@@ -1,4 +1,4 @@
-<p align="center">
+=w[p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
@@ -28,42 +28,40 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Resolution
 
 <h2>Lifecycle Stages</h2>
-1
+1 http://localhost/osTicket/scp/login.php (Admin/Analyst Login Page)
+  http://localhost/osTicket (End Users osTicket URL)
+  Open up both of these links and sign into the Admin/Analyst Login Page.
 <p>
 <img <img width="1440" alt="TTL_1" src="https://github.com/user-attachments/assets/77c020bf-7241-463e-ada9-7e3dfc3f18cc" />
 </p>
 <p>
-2
+2 Go into the "Admin Panel"
 <p>
 <img <img width="1440" alt="TTL_2" src="https://github.com/user-attachments/assets/d0e3af9e-a6e4-440a-9e59-6d16efd8a47d" />
 </p>
 <p>
-3
+3 From there click the "Agents Tab".
 <p>
 <img <img width="1440" alt="TTL_3" src="https://github.com/user-attachments/assets/5c75f0b5-e14e-43ed-a402-a459d4ff3c61" />
 </p>
 <p>
-4
+4 Click "Departments"
 <p>
 <img <img width="1440" alt="TTL_4" src="https://github.com/user-attachments/assets/7f03db73-b4bd-4a13-b24a-34eea812b070" />
 </p>
 <p>
-5
-<p>
-<img <img width="1440" alt="TTL_5" src="https://github.com/user-attachments/assets/d7a3912c-7bca-465b-b1cf-2f558bef4c1f" />
-</p>
-<p>
-6
+6 Check the box for Maintenance.
 <p>
 <img <img width="1440" alt="TTL_6" src="https://github.com/user-attachments/assets/479924b0-32ef-4a07-acf4-7a368fc8b7ba" />
 </p>
 <p>
-7
+7 On the right click the drop down arrow next to more and then "delete".
 <p>
 <img <img width="1440" alt="TTL_7" src="https://github.com/user-attachments/assets/f37f3f9a-2e4c-482f-9360-5296b58ec4b4" />
 </p>
 <p>
-8
+8 With the maintenance department deleted your created tickets will go to the correct departments. 
+  Now click Support / SysAdmins
 <p>
 <img <img width="1440" alt="TTL_8" src="https://github.com/user-attachments/assets/a8546eb1-255a-47a8-9deb-75153a0c25f5" />
 </p>
