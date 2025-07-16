@@ -118,32 +118,33 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img <img width="1440" alt="TTL_18" src="https://github.com/user-attachments/assets/84bd9519-bb0d-44c8-8367-b00bb2704a90" />
 </p>
 <p>
-20
+20 Quick setting change (Error on my part) Sign out as the agent and back in as yourself. Then go to the "Agents" tab. 
 <p>
 <img <img width="1440" alt="TTL_20" src="https://github.com/user-attachments/assets/81503c06-49f3-48cc-a724-f70796f14a08" />
 </p>
 <p>
-21
+21 Click on the agent that you were using to look at the ticket. 
 <p>
 <img <img width="1440" alt="TTL_21" src="https://github.com/user-attachments/assets/b02b7f43-be5f-4ab8-ae8b-9588f502673f" />
 </p>
 <p>
-22
+22 For access change from "Veiw only" to "All Access". Now as that agent we can make changes to the ticket. 
 <p>
 <img <img width="1440" alt="TTL_22" src="https://github.com/user-attachments/assets/3ba1ce76-77de-48b3-adef-5b001b26c34b" />
 </p>
 <p>
-23
+23 Click "Save CHanges" at the bottom. Then sign back in as the Help Desk Agent.
 <p>
 <img <img width="1440" alt="TTL_23" src="https://github.com/user-attachments/assets/e9431d78-404d-47cb-a24b-e2d10f59030c" />
 </p>
 <p>
-24
+24 Go back to the ticket we were looking at prior. 
+   Sometimes clients don't choose the best information when submitting the ticket and when that happens we need to make changes to both better understand the issue and get it to the right department if necessary. 
 <p>
 <img <img width="1440" alt="TTL_24" src="https://github.com/user-attachments/assets/e0857b60-5722-4921-b484-fae22b045eb4" />
 </p>
 <p>
-25
+25 
 <p>
 <img <img width="1440" alt="TTL_25" src="https://github.com/user-attachments/assets/20659c1b-55bb-4b95-98d2-b7244058d877" />
 </p>
