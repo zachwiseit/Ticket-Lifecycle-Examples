@@ -139,13 +139,13 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 <p>
 24 Go back to the ticket we were looking at prior. 
-   Sometimes clients don't choose the best information when submitting the ticket and when that happens we need to make         changes to both better understand the issue and get it to the right department if necessary. 
+   Sometimes clients don't choose the best information when submitting the ticket and when that happens we need to make changes to both better understand the issue and get it to the right department if necessary. 
    First, next to SLA Plan click "Default SLA".
 <p>
 <img <img width="1440" alt="TTL_24" src="https://github.com/user-attachments/assets/e0857b60-5722-4921-b484-fae22b045eb4" />
 </p>
 <p>
-25 Here you would update the SLA to better meet the circumstances of the ticket like this. I change the Plan and and            provided a reason for the update. Then click update. 
+25 Here you would update the SLA to better meet the circumstances of the ticket like this. I change the Plan and and provided a reason for the update. Then click update. 
 <p>
 <img <img width="1440" alt="TTL_25" src="https://github.com/user-attachments/assets/20659c1b-55bb-4b95-98d2-b7244058d877" />
 </p>
@@ -218,164 +218,161 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img <img width="1440" alt="TTL_39" src="https://github.com/user-attachments/assets/ad3d695c-2ab4-479e-882b-795ef1a270ce" />
 </p>
 <p>
-40 After you are sined in as the Sysadmin go to Tickets and click on the ticket assigned to Online Banking. 
+40 After you are signed in as the Sysadmin go to Tickets and click on the ticket assigned to Online Banking. 
 <p>
 <img <img width="1440" alt="TTL_40" src="https://github.com/user-attachments/assets/47bc0e8d-7b3b-4447-a775-99a0e43fea24" />
 </p>
 <p>
-41
+41 Next to click "Online Banking". 
 <p>
 <img <img width="1440" alt="TTL_41" src="https://github.com/user-attachments/assets/af2a50d0-f335-4358-82f3-a4bff341a667" />
 </p>
 <p>
-42
+42 For this scenario lets say this person wants to take care of the ticket themself so they will reasign the ticket to them. 
+   Just change the Assignee, your reason for assigning it to your self and click "Assign".
 <p>
 <img <img width="1440" alt="TTL_42" src="https://github.com/user-attachments/assets/e633bc83-e4b3-404f-bfbd-dbea0ab310f5" />
 </p>
 <p>
-43
+43 Now you can see its assigned to that specific person. In this case Jane Doe. 
 <p>
 <img <img width="1440" alt="TTL_43" src="https://github.com/user-attachments/assets/00b405e0-fd64-4e8b-8893-e0db70ce845b" />
 </p>
 <p>
-44
+44 In the bottom of the ticket page you can post replies to update the ticket status. 
 <p>
 <img <img width="1440" alt="TTL_44" src="https://github.com/user-attachments/assets/213f8e4d-59c1-407a-90de-669975fbe0a8" />
 </p>
 <p>
-45
+45 Now its added to the thread where any people invloved will be notified of updates. 
 <p>
 <img <img width="1440" alt="TTL_45" src="https://github.com/user-attachments/assets/921e34c6-d68b-4603-874c-579312c0742d" />
 </p>
 <p>
-46
+46 Next lets say Jane looked into the issue with online banking and addressed it. They would post a reply to update the ticket status. 
 <p>
 <img <img width="1440" alt="TTL_46" src="https://github.com/user-attachments/assets/ebdfe384-24af-465f-b8a8-e8fb4d413aa5" />
 </p>
 <p>
-47
+47 After posting that everyone can see that the root cause was the recent update. It was roled back and the vendor was notified pending a proper fix. 
 <p>
 <img <img width="1440" alt="TTL_47" src="https://github.com/user-attachments/assets/67e88f55-befd-4e1d-92cf-cda78f8bfa81" />
 </p>
 <p>
-48
+48 Now scroll up to the top and click the Priority: "status". In this kind of scenario it would have been changed to Emergency. For practice change that status. 
 <p>
 <img <img width="1440" alt="TTL_48" src="https://github.com/user-attachments/assets/f2da4570-3625-4e85-bd7d-e11af9cdcd4c" />
 </p>
 <p>
-49
+49 With everything fixed Next to status click "Open". 
 <p>
 <img <img width="1440" alt="TTL_49" src="https://github.com/user-attachments/assets/7863c402-a621-40c9-8219-6bc643689b94" />
 </p>
 <p>
-50
+50 Click "Resolved".
 <p>
 <img <img width="1440" alt="TTL_50" src="https://github.com/user-attachments/assets/53954b29-0f10-46e3-8074-9a016a10eb9b" />
 </p>
 <p>
-51
+51 Click "Close" effectivly closing down the ticket.
 <p>
 <img <img width="1440" alt="TTL_51" src="https://github.com/user-attachments/assets/4969f828-005e-4fe9-a416-2e6ad93339d6" />
 </p>
 <p>
-52
+52 Back on the tickets page you can see there aren't any tickets to veiw. 
+   Resolved tickets can still be viewed its just a matte of who has the permissions to do so.
 <p>
 <img <img width="1440" alt="TTL_52" src="https://github.com/user-attachments/assets/41122571-ebb4-49d4-b602-07dee0c31a29" />
 </p>
 <p>
-53
+53 Now go back to the enduser portal for creating tickets.
 <p>
 <img <img width="1440" alt="TTL_53" src="https://github.com/user-attachments/assets/253c56be-2d70-418b-a89c-3721a17d1c78" />
 </p>
 <p>
-54
+54 Open up a new ticket.
 <p>
 <img <img width="1440" alt="TTL_54" src="https://github.com/user-attachments/assets/4373adef-0fbc-43bb-94d6-78e2b77acd33" />
 </p>
 <p>
-55
+55 Then fill out the information like this. 
+   You can use either user created I just chose to use the same one. 
 <p>
 <img <img width="1440" alt="TTL_55" src="https://github.com/user-attachments/assets/e13069ea-c9f2-4c90-9f88-fee6e61076e0" />
 </p>
 <p>
-56
+56 This is just an example scenario but generaly submitted tickets aren't going to be perfectly explained when submited. 
+   When you are done click "Create Ticket" at the bottom and we will process this new ticket. 
 <p>
 <img <img width="1440" alt="TTL_56" src="https://github.com/user-attachments/assets/f997369d-fdc8-4380-9000-23dd2bc2d337" />
 </p>
 <p>
-57
+57 Go back to the osTicket site and sign in as the other Help Desk Agent.
 <p>
 <img <img width="1440" alt="TTL_57" src="https://github.com/user-attachments/assets/014f06f7-c08e-4528-96ba-adcb1743a613" />
 </p>
 <p>
-58
+58 After you are signed in click on the ticket created by the accounting department. 
 <p>
 <img <img width="1440" alt="TTL_58" src="https://github.com/user-attachments/assets/9273e099-abd3-4884-b319-44058afd01db" />
 </p>
 <p>
-59
+59 After inspecting the ticket the description isnt the best so idealy you would reach out to the user for more details. 
 <p>
 <img <img width="1440" alt="TTL_59" src="https://github.com/user-attachments/assets/736976c0-16a7-4c71-8dc3-f39c5795a77e" />
 </p>
 <p>
-60
+60 Lets say you cantact the user and actually its only two people that are having issues opening adobe. You recomend a restart and they will call you back afte lunch with an update. 
+   With this information we can make some changes. 
+   Click on the SLA Plan and set it to Sev-C with for this reason. 
 <p>
 <img <img width="1440" alt="TTL_60" src="https://github.com/user-attachments/assets/f148094d-7e41-4a1a-8540-40827804215d" />
 </p>
 <p>
-61
-<p>
-<img <img width="1440" alt="TTL_61" src="https://github.com/user-attachments/assets/8b185879-f1ae-464f-aa7b-a4647b1ef715" />
-</p>
-<p>
-62
+62 Now we are going to assigne the ticket to ourselves. Click "Unassigned" 
 <p>
 <img <img width="1440" alt="TTL_62" src="https://github.com/user-attachments/assets/6849d501-ae37-4b1b-abdd-d2f7066906ed" />
 </p>
 <p>
-63
+63 Ad your reasoning and click "Assign". 
 <p>
 <img <img width="1440" alt="TTL_63" src="https://github.com/user-attachments/assets/72d5a4ea-f6f7-4347-8d50-596c12ef87f1" />
 </p>
 <p>
-64
+64 Now post a reply (like this one) letting everyone know the current status. 
 <p>
 <img <img width="1440" alt="TTL_64" src="https://github.com/user-attachments/assets/d17a60e7-c7ca-4d49-b40c-786c6215e5ed" />
 </p>
 <p>
-65
+65 With that anyone who needs to can see the thread so far as we "wait' for the return call. 
 <p>
 <img <img width="1440" alt="TTL_65" src="https://github.com/user-attachments/assets/913a4f86-a70c-4e67-bd4f-0aa7fc66f26e" />
 </p>
 <p>
-66
+66 We get the call back and the restart was successfull. Make another post notefying the issue is resolved.
 <p>
 <img <img width="1440" alt="TTL_66" src="https://github.com/user-attachments/assets/30fb6199-03b6-47b1-8904-ffae35a0eb84" />
 </p>
 <p>
-67
+67 Now anyone who needs to can see the update. 
 <p>
 <img <img width="1440" alt="TTL_67" src="https://github.com/user-attachments/assets/12b162f6-938e-415f-846a-e83795c8bbe9" />
 </p>
 <p>
-68
+68 Just like the first ticket click on the status and change it to Resolved. 
 <p>
 <img <img width="1440" alt="TTL_68" src="https://github.com/user-attachments/assets/e95c6acb-22f0-4249-b273-428baccb92f4" />
 </p>
 <p>
-69
+69 State the the reset was succcessful and click "Close".
 <p>
 <img <img width="1440" alt="TTL_69" src="https://github.com/user-attachments/assets/b923ae34-da71-4e8f-b272-d69320e9b775" />
 </p>
 <p>
-70
+70 We are going to run through one more example ticket involving the CFO's laptop. 
+   Fill out the ticket accordingly and clikc "Create Ticket".
 <p>
 <img <img width="1440" alt="TTL_70" src="https://github.com/user-attachments/assets/6873ad10-662c-460d-8bb0-b02f41fa91c1" />
-</p>
-<p>
-71
-<p>
-<img <img width="1440" alt="TTL_71" src="https://github.com/user-attachments/assets/43a07bc9-c9cc-4107-bb0d-f2155a308cb0" />
 </p>
 <p>
 72
