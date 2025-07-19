@@ -375,47 +375,45 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img <img width="1440" alt="TTL_70" src="https://github.com/user-attachments/assets/6873ad10-662c-460d-8bb0-b02f41fa91c1" />
 </p>
 <p>
-72
+72 Click on the CFO's ticket (If it isnt their click the refresh symbol next to Open).
 <p>
 <img <img width="1440" alt="TTL_72" src="https://github.com/user-attachments/assets/d0e6c44b-0d85-4a02-bfa5-e1640a042fdd" />
 </p>
 <p>
-73
+73 Observe the ticket details.
+   We are going to change the Priorty first. 
 <p>
 <img <img width="1440" alt="TTL_73" src="https://github.com/user-attachments/assets/45292a84-1a35-4256-abe6-b95b2c9fb0e8" />
 </p>
 <p>
-74
-<p>
+74 Just like before click the priority, set it to Emergency, and click "Update". 
+<p> 
 <img <img width="1440" alt="TTL_74" src="https://github.com/user-attachments/assets/9ee95f05-75cb-4801-bd1b-e0e8f1e09f8d" />
 </p>
 <p>
-75
+75 Next xhange the SLA. Sev-B(4 hours, 24/7) is the most appropriate considering even thoe it is the CFO its still just one persons laptop and not a major buisness impact. 
+   Also add the reasoning that may change later with more information then click "Update".
 <p>
 <img <img width="1440" alt="TTL_75" src="https://github.com/user-attachments/assets/c1d3cf82-addb-4f1b-8956-c274b5fe3185" />
 </p>
 <p>
-76
+76 Assign the ticket to yourself. 
 <p>
 <img <img width="1440" alt="TTL_76" src="https://github.com/user-attachments/assets/b3855423-701f-431f-a6e3-a6453ee44e8d" />
 </p>
 <p>
-77
-<p>
-<img <img width="1440" alt="TTL_77" src="https://github.com/user-attachments/assets/e8146d86-b565-4e3c-ae92-ac62d7f2e8d9" />
-</p>
-<p>
-78
+78 You contact Karen to see if you can get eyes on the laptop. Its arranged and you determine that the cause was a bad charger. You replace it and it is charging. 
+   Make a thread to close out the ticket.
 <p>
 <img <img width="1440" alt="TTL_78" src="https://github.com/user-attachments/assets/d7703856-16d4-4dc1-ac8b-64555c4b531b" />
 </p>
 <p>
-79
+79 Scroll back up and change the status to "Resolved".
 <p>
 <img <img width="1440" alt="TTL_79" src="https://github.com/user-attachments/assets/427ae8af-1070-4a50-bb7f-bbaf2517479a" />
 </p>
 <p>
-80
+80 Change the status, provide the reason, and click "Close". 
 <p>
 <img <img width="1440" alt="TTL_80" src="https://github.com/user-attachments/assets/0750c4f1-a577-47bb-8648-2704e7f2a6fc" />
 </p>
