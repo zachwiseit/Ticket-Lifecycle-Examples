@@ -8,7 +8,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
+- ### [YouTube: How to create, work, and resolve tickets within osTicket](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -82,19 +82,19 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 <p>
 13  Under "Open a New Ticket"
-    Now fill out the form as seen below with the email address and name of a cliant that you created earlier. 
+    Now fill out the form as seen below with the email address and name of a client that you created earlier. 
 <p>
 <img <img width="1440" alt="TTL_13" src="https://github.com/user-attachments/assets/0991caf7-2d36-405f-9622-cfe61b8d0811" />
 </p>
 <p>
 14 This is an example of what a Ticket could be for a bank. 
-   Afte you have filled out everything click "Create Ticket" at the bottom.
+   After you have filled out everything click "Create Ticket" at the bottom.
 <p>
 <img <img width="1440" alt="TTL_14" src="https://github.com/user-attachments/assets/b98dd63e-83c1-45c9-8cac-633126356cc1" />
 </p>
 <p>
 15 The screen will change to this notifying you the ticket was created and sent to the support team. 
-   We will now go back as a Help Desk Agent and reveiw this ticket. 
+   We will now go back as a Help Desk Agent and review this ticket. 
 <p>
 <img <img width="1440" alt="TTL_15" src="https://github.com/user-attachments/assets/cf40919c-a072-46d9-b874-ba2434e156f6" />
 </p>
@@ -109,7 +109,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img <img width="1440" alt="TTL_17" src="https://github.com/user-attachments/assets/455949c5-11c5-4018-b76a-120779f54944" />
 </p>
 <p>
-18 While signed in as the help desk agent observer this tickets properties. 
+18 While signed in as the help desk agent and observe this tickets properties. 
    Priority 
    Department 
    SLA 
@@ -128,12 +128,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img <img width="1440" alt="TTL_21" src="https://github.com/user-attachments/assets/b02b7f43-be5f-4ab8-ae8b-9588f502673f" />
 </p>
 <p>
-22 For access change from "Veiw only" to "All Access". Now as that agent we can make changes to the ticket. 
+22 For access change from "View only" to "All Access". Now as that agent we can make changes to the ticket. 
 <p>
 <img <img width="1440" alt="TTL_22" src="https://github.com/user-attachments/assets/3ba1ce76-77de-48b3-adef-5b001b26c34b" />
 </p>
 <p>
-23 Click "Save CHanges" at the bottom. Then sign back in as the Help Desk Agent.
+23 Click "Save Changes" at the bottom. Then sign back in as the Help Desk Agent.
 <p>
 <img <img width="1440" alt="TTL_23" src="https://github.com/user-attachments/assets/e9431d78-404d-47cb-a24b-e2d10f59030c" />
 </p>
@@ -155,7 +155,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img <img width="1440" alt="TTL_26" src="https://github.com/user-attachments/assets/7a67c9b3-775b-4058-9e30-1c45d991726d" />
 </p>
 <p>
-27 A more apropriate topic for this situation would be "Report a Problem/Buisness  Critical Outage". 
+27 A more appropriate topic for this situation would be "Report a Problem/Business Critical Outage". 
    Then give a reason for the update. Then click update. 
 <p>
 <img <img width="1440" alt="TTL_27" src="https://github.com/user-attachments/assets/e0016ed3-0586-40ba-92eb-5fb30a0b956d" />
@@ -166,7 +166,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img <img width="1440" alt="TTL_28" src="https://github.com/user-attachments/assets/5314c5d4-449a-4c66-8e32-ccbabe158789" />
 </p>
 <p>
-29 Afte the page refreshes scroll down and you can see all the updates you made. 
+29 After the page refreshes scroll down and you can see all the updates you made. 
 <p>
 <img <img width="1440" alt="TTL_29" src="https://github.com/user-attachments/assets/675939ca-67b6-47aa-bfc3-d6fd7250a0fd" />
 </p>
@@ -192,13 +192,13 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img <img width="1440" alt="TTL_33" src="https://github.com/user-attachments/assets/cfb5291a-b303-4066-aa0d-011ec26e648f" />
 </p>
 <p>
-34 Under select agent click the Sysadmin agent you created ealier. 
+34 Under select agent click the Sysadmin agent you created earlier. 
 <p>
 <img <img width="1440" alt="TTL_34" src="https://github.com/user-attachments/assets/95f502e0-6bcd-41af-817e-27ae637f3a18" />
 </p>
 <p>
 35  Do this for the other two as well. Then click "Save Changes". 
-    (The reason behind this is to see the changes regardless whe you are signed in as.)
+    (The reason behind this is to see the changes regardless when you are signed in as.)
 <p>
 <img <img width="1440" alt="TTL_35" src="https://github.com/user-attachments/assets/a17435fb-da6b-446f-b175-4e2a535999f4" />
 </p>
@@ -228,8 +228,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img <img width="1440" alt="TTL_41" src="https://github.com/user-attachments/assets/af2a50d0-f335-4358-82f3-a4bff341a667" />
 </p>
 <p>
-42 For this scenario lets say this person wants to take care of the ticket themself so they will reasign the ticket to them. 
-   Just change the Assignee, your reason for assigning it to your self and click "Assign".
+42 For this scenario lets say this person wants to take care of the ticket themself so they will reassign the ticket to them. 
+   Just change the assign, your reason for assigning it to your self and click "Assign".
 <p>
 <img <img width="1440" alt="TTL_42" src="https://github.com/user-attachments/assets/e633bc83-e4b3-404f-bfbd-dbea0ab310f5" />
 </p>
@@ -244,7 +244,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img <img width="1440" alt="TTL_44" src="https://github.com/user-attachments/assets/213f8e4d-59c1-407a-90de-669975fbe0a8" />
 </p>
 <p>
-45 Now its added to the thread where any people invloved will be notified of updates. 
+45 Now its added to the thread where any people involved will be notified of updates. 
 <p>
 <img <img width="1440" alt="TTL_45" src="https://github.com/user-attachments/assets/921e34c6-d68b-4603-874c-579312c0742d" />
 </p>
@@ -254,7 +254,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img <img width="1440" alt="TTL_46" src="https://github.com/user-attachments/assets/ebdfe384-24af-465f-b8a8-e8fb4d413aa5" />
 </p>
 <p>
-47 After posting that everyone can see that the root cause was the recent update. It was roled back and the vendor was notified pending a proper fix. 
+47 After posting that everyone can see that the root cause was the recent update. It was rolled back and the vendor was notified pending a proper fix. 
 <p>
 <img <img width="1440" alt="TTL_47" src="https://github.com/user-attachments/assets/67e88f55-befd-4e1d-92cf-cda78f8bfa81" />
 </p>
@@ -274,13 +274,13 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img <img width="1440" alt="TTL_50" src="https://github.com/user-attachments/assets/53954b29-0f10-46e3-8074-9a016a10eb9b" />
 </p>
 <p>
-51 Click "Close" effectivly closing down the ticket.
+51 Click "Close" effectively closing down the ticket.
 <p>
 <img <img width="1440" alt="TTL_51" src="https://github.com/user-attachments/assets/4969f828-005e-4fe9-a416-2e6ad93339d6" />
 </p>
 <p>
-52 Back on the tickets page you can see there aren't any tickets to veiw. 
-   Resolved tickets can still be viewed its just a matte of who has the permissions to do so.
+52 Back on the tickets page you can see there aren't any tickets to view. 
+   Resolved tickets can still be viewed its just a matter of who has the permissions to do so.
 <p>
 <img <img width="1440" alt="TTL_52" src="https://github.com/user-attachments/assets/41122571-ebb4-49d4-b602-07dee0c31a29" />
 </p>
@@ -301,7 +301,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img <img width="1440" alt="TTL_55" src="https://github.com/user-attachments/assets/e13069ea-c9f2-4c90-9f88-fee6e61076e0" />
 </p>
 <p>
-56 This is just an example scenario but generaly submitted tickets aren't going to be perfectly explained when submited. 
+56 This is just an example scenario but generally submitted tickets aren't going to be perfectly explained when submitted. 
    When you are done click "Create Ticket" at the bottom and we will process this new ticket. 
 <p>
 <img <img width="1440" alt="TTL_56" src="https://github.com/user-attachments/assets/f997369d-fdc8-4380-9000-23dd2bc2d337" />
@@ -317,12 +317,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img <img width="1440" alt="TTL_58" src="https://github.com/user-attachments/assets/9273e099-abd3-4884-b319-44058afd01db" />
 </p>
 <p>
-59 After inspecting the ticket the description isnt the best so idealy you would reach out to the user for more details. 
+59 After inspecting the ticket the description isn't the best so ideally you would reach out to the user for more details. 
 <p>
 <img <img width="1440" alt="TTL_59" src="https://github.com/user-attachments/assets/736976c0-16a7-4c71-8dc3-f39c5795a77e" />
 </p>
 <p>
-60 Lets say you cantact the user and actually its only two people that are having issues opening adobe. You recomend a restart and they will call you back afte lunch with an update. 
+60 Lets say you contact the user and actually its only two people that are having issues opening adobe. You recomend a restart and they will call you back after lunch with an update. 
    With this information we can make some changes. 
    Click on the SLA Plan and set it to Sev-C with for this reason. 
 <p>
@@ -334,7 +334,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img <img width="1440" alt="TTL_62" src="https://github.com/user-attachments/assets/6849d501-ae37-4b1b-abdd-d2f7066906ed" />
 </p>
 <p>
-63 Ad your reasoning and click "Assign". 
+63 Add your reasoning and click "Assign". 
 <p>
 <img <img width="1440" alt="TTL_63" src="https://github.com/user-attachments/assets/72d5a4ea-f6f7-4347-8d50-596c12ef87f1" />
 </p>
@@ -349,7 +349,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img <img width="1440" alt="TTL_65" src="https://github.com/user-attachments/assets/913a4f86-a70c-4e67-bd4f-0aa7fc66f26e" />
 </p>
 <p>
-66 We get the call back and the restart was successfull. Make another post notefying the issue is resolved.
+66 We get the call back and the restart was successful. Make another post notifying the issue is resolved.
 <p>
 <img <img width="1440" alt="TTL_66" src="https://github.com/user-attachments/assets/30fb6199-03b6-47b1-8904-ffae35a0eb84" />
 </p>
@@ -370,18 +370,18 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 <p>
 70 We are going to run through one more example ticket involving the CFO's laptop. 
-   Fill out the ticket accordingly and clikc "Create Ticket".
+   Fill out the ticket accordingly and click "Create Ticket".
 <p>
 <img <img width="1440" alt="TTL_70" src="https://github.com/user-attachments/assets/6873ad10-662c-460d-8bb0-b02f41fa91c1" />
 </p>
 <p>
-72 Click on the CFO's ticket (If it isnt their click the refresh symbol next to Open).
+72 Click on the CFO's ticket (If it isn't there click the refresh symbol next to Open).
 <p>
 <img <img width="1440" alt="TTL_72" src="https://github.com/user-attachments/assets/d0e6c44b-0d85-4a02-bfa5-e1640a042fdd" />
 </p>
 <p>
 73 Observe the ticket details.
-   We are going to change the Priorty first. 
+   We are going to change the Priority first. 
 <p>
 <img <img width="1440" alt="TTL_73" src="https://github.com/user-attachments/assets/45292a84-1a35-4256-abe6-b95b2c9fb0e8" />
 </p>
@@ -391,7 +391,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img <img width="1440" alt="TTL_74" src="https://github.com/user-attachments/assets/9ee95f05-75cb-4801-bd1b-e0e8f1e09f8d" />
 </p>
 <p>
-75 Next xhange the SLA. Sev-B(4 hours, 24/7) is the most appropriate considering even thoe it is the CFO its still just one persons laptop and not a major buisness impact. 
+75 Next change the SLA. Sev-B(4 hours, 24/7) is the most appropriate considering even though it is the CFO its still just one persons laptop and not a major business impact. 
    Also add the reasoning that may change later with more information then click "Update".
 <p>
 <img <img width="1440" alt="TTL_75" src="https://github.com/user-attachments/assets/c1d3cf82-addb-4f1b-8956-c274b5fe3185" />
