@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+This tutorial explains the journey of a ticket from submission to resolution within the open-source help desk system, osTicket.<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -15,6 +15,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
+- macOS Sonama 14.6.1
 
 <h2>Ticket Lifecycle Stages</h2>
 
