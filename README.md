@@ -1,6 +1,6 @@
-=w[p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<p align="center">
 </p>
+<img width="1000" height="750" alt="image" src="https://github.com/user-attachments/assets/48db46c1-f6a8-4953-979e-789adb63c151" />
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
 This tutorial explains the journey of a ticket from submission to resolution within the open-source help desk system, osTicket.<br />
